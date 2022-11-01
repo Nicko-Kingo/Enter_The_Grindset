@@ -1,6 +1,8 @@
 # Enter The Grindset
 ##### By: Nick King
 
+## Try the game: https://editor.p5js.org/knick98/full/yFUZqP9qZ
+
 # Preface:
 This game was designed as a final project for a game design course at Virginia Tech. The overall structure, such as how the maps and some characters are created, were requirements of the project.
 
@@ -22,6 +24,9 @@ Also Note that this game was made purely for academic purposes with no commercia
 
     Comes filled with game lore and subtext, along with super fun music
     Credits go to:
-    Can you feel my heart - lose and win screens
-    Silent Hill           - Lore Screen
-    Polozhenie            - Game music
+    - Can you feel my heart 
+        - lose and win screens
+    - Silent Hill  
+        - Lore Screen
+    - Polozhenie   
+        - Game music
