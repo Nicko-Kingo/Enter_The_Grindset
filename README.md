@@ -1,7 +1,8 @@
 # Enter The Grindset
 ##### By: Nick King
 
-## Try the game: https://editor.p5js.org/knick98/full/yFUZqP9qZ
+## Try the game!
+https://editor.p5js.org/knick98/full/yFUZqP9qZ
 
 # Preface:
 This game was designed as a final project for a game design course at Virginia Tech. The overall structure, such as how the maps and some characters are created, were requirements of the project.
