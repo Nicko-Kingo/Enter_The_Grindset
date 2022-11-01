@@ -4,7 +4,7 @@
 ## Try the game!
 https://editor.p5js.org/knick98/full/yFUZqP9qZ
 
-# Preface:
+# Overview:
 This game was designed as a final project for a game design course at Virginia Tech. The overall structure, such as how the maps and some characters are created, were requirements of the project.
 
 Note that the inclusion of certain themes, characters, and music are done in parody and not to be taken seriously.
